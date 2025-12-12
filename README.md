@@ -76,8 +76,8 @@ I run DH Solutions, an IT company delivering:
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohsin-jaleel&show_icons=true&theme=dark&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsin-jaleel&layout=compact&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohsin631&show_icons=true&theme=dark&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohsin631&layout=compact&theme=dark"/>
 </p>
 
 <p align="center">
