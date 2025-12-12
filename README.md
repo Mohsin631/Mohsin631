@@ -6,7 +6,9 @@
 <h3 align="center">💼 CEO of DH Solutions | Full-Stack Developer | Software Engineer</h3>
 
 <p align="center">
-  <b>Building SaaS, Mobile Apps, AI Systems, and High-Performance Backends.</b>
+  <a href="https://www.linkedin.com/in/mjaleel/"><img src="https://img.shields.io/badge/LinkedIn-Mohsin%20Jaleel-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:mohsin@dhsol.net"><img src="https://img.shields.io/badge/Email-mohsin@dhsol.net-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://dhsol.net/"><img src="https://img.shields.io/badge/Website-dhsol.net-blue?style=for-the-badge&logo=googlechrome"></a>
 </p>
 
 ---
@@ -14,11 +16,11 @@
 <a name="about"></a>
 ## 👨‍💻 About Me  
 
-- 💼 CEO of **DH Solutions**  
-- 🔧 Full-Stack Developer (Web, Mobile, AI)  
-- 📍 Based in Pakistan  
-- 🚀 Passionate about scalable systems & automation  
-- 🎯 Building enterprise solutions for global clients  
+- 💼 **CEO & Founder of DH Solutions (dhsol.net)**  
+- 🔧 **Full-Stack Developer** building production-ready systems  
+- 🚀 Passionate about **SaaS, Mobile Apps, AI-based platforms, APIs, and scalable backend systems**  
+- ⚡ Experienced in **Laravel, Node.js, Flutter, Next.js, Python, Cloud Infra**  
+- 🎯 Currently working on **AI automation, enterprise backend architectures & global SaaS platforms**  
 
 ---
 
@@ -26,12 +28,25 @@
 ## 🧰 Skills & Technologies  
 
 ### **Languages**
-- PHP • JavaScript • TypeScript • Dart • Python
+<p align="left">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
 ### **Frameworks & Tools**
-- Laravel • Node.js • Next.js • Flutter  
-- MySQL • MongoDB  
-- Figma • Docker • Nginx • DigitalOcean  
+<p align="left">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white"/>
+</p>
 
 ---
 
@@ -39,78 +54,50 @@
 ## 🚀 What I Do  
 
 ### **💼 DH Solutions — CEO & Lead Engineer**  
-Delivering enterprise-grade solutions:
+I run DH Solutions, an IT company delivering:
 
-- SaaS Platforms  
-- Secure APIs & Backend Systems  
-- AI Automation Tools  
-- Mobile Applications  
-- Cloud Deployment & DevOps  
+✔️ SaaS Platforms  
+✔️ Mobile Apps (Flutter, React Native)  
+✔️ AI Automations & Chat Systems  
+✔️ Enterprise Web Applications  
+✔️ Secure Backends & APIs  
+✔️ DevOps Deployments (Docker, CI/CD, Cloud)  
+
+### **🔥 Current Focus**
+- Building **enterprise-grade backend systems**  
+- Creating **AI-powered automation tools**  
+- Scaling **global SaaS products**  
+- Designing **secure payment integrations**  
+- Managing **large software teams & operations**  
 
 ---
 
 <a name="stats"></a>
-## 📊 My Developer Stats (Custom Written — No API Needed)
+## 📊 GitHub Stats  
 
-### 💼 Professional Summary
-- CEO of **DH Solutions**
-- Full-Stack Developer (Web, App, AI)
-- 6+ Years of Experience
-- 70+ Completed Projects  
-- Leading a team of 10+ developers
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohsin-jaleel&show_icons=true&theme=dark&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsin-jaleel&layout=compact&theme=dark"/>
+</p>
 
----
-
-### 🧠 Technical Experience
-| Area | Level | Notes |
-|------|--------|-------|
-| Backend Development | ⭐⭐⭐⭐⭐ | Laravel, Node.js, REST APIs, Secure Architecture |
-| Mobile Development | ⭐⭐⭐⭐ | Flutter (Production Apps) |
-| Frontend Engineering | ⭐⭐⭐⭐ | Next.js, React, UI/UX Understanding |
-| Cloud / DevOps | ⭐⭐⭐ | Nginx, Ubuntu, DO, CI/CD |
-| AI & Automation | ⭐⭐⭐⭐ | Workflows, Agents, Internal AI Systems |
-
----
-
-### 🏆 Achievements
-- Built SaaS platforms used internationally  
-- Designed enterprise workflow systems  
-- Created & deployed AI-driven automation  
-- Launched multiple mobile apps  
-- Engineered high-performance backend infrastructures  
-
----
-
-### 🔧 Tools I Use Daily
-- PHPStorm / VS Code  
-- Postman  
-- Git & GitHub  
-- DigitalOcean  
-- Figma  
-- Flutter SDK  
-- Ubuntu Server  
-
----
-
-### 🎯 Current Focus Areas
-- Scaling DH Solutions worldwide  
-- AI infrastructure & automation  
-- Payment gateway engineering  
-- Multi-tenant SaaS development  
-- High-performance backend systems  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohsin-jaleel&theme=dark"/>
+</p>
 
 ---
 
 <a name="contact"></a>
 ## 🔗 Contact  
 
-- 🌐 **Website:** https://dhsol.net  
-- 📧 **Email:** mohsin@dhsol.net  
-- 🔗 **LinkedIn:** https://www.linkedin.com/in/mjaleel  
+<p align="center">
+  <a href="https://www.linkedin.com/in/mjaleel/"><img src="https://img.shields.io/badge/LinkedIn-Mohsin%20Jaleel-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:mohsin@dhsol.net"><img src="https://img.shields.io/badge/Email-mohsin@dhsol.net-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://dhsol.net/"><img src="https://img.shields.io/badge/Website-dhsol.net-blue?style=for-the-badge&logo=googlechrome"></a>
+</p>
 
 ---
 
-<p align="center">“Building the Future with Code, Vision, and Leadership.”</p>
+<p align="center">“Transforming Ideas Into Innovation.”</p>
 
 <p align="center">
   <a href="#top">
