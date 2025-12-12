@@ -70,19 +70,6 @@ I run DH Solutions, an IT company delivering:
 - Designing **secure payment integrations**  
 - Managing **large software teams & operations**  
 
----
-
-<a name="stats"></a>
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohsin-jaleel&show_icons=true&theme=dark&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsin-jaleel&layout=compact&theme=dark"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohsin-jaleel&theme=dark"/>
-</p>
 
 ---
 
