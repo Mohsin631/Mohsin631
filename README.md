@@ -53,7 +53,7 @@
 <a name="work"></a>
 ## 🚀 What I Do  
 
-### **💼 DH Solutions — CEO & Lead Engineer**  
+### **💼 DH Solutions — COO & Lead Engineer**  
 I run DH Solutions, an IT company delivering:
 
 ✔️ SaaS Platforms  
